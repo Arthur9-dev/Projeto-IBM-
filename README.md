@@ -1,2 +1,2 @@
-# Projeto-IBM-
-O nosso site da que foi desenvolvido ao longo do ano
+# Projeto-IBM- Vixel Sports
+O nosso projeto que esta sendo desenvolvido ao longo de 2024 e 2025 
